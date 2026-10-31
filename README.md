@@ -1,95 +1,107 @@
-![Muhammad Jawad](./muhammad_jawad_github_banner.png)<div align="center">
+![Muhammad Jawad - Developer Banner](./muhammad_jawad_github_banner.png)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:312E81,100:00D4FF&height=220&section=header&text=Muhammad%20Jawad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20Mobile%20App%20Developer&descAlignY=58&animation=fadeIn" width="100%" />
+<div align="center">
 
-👋 Hi, I'm Muhammad Jawad
-🚀 Full-Stack Web & Mobile App Developer
+# 👋 Hi, I'm Muhammad Jawad
 
-Building Modern Web Applications | Mobile Apps | Creative Digital Solutions
+### 🎓 BS Computer Science Graduate | Web & Mobile App Developer
 
-📍 Pakistan 🇵🇰
+**MERN Stack Enthusiast | Software Development | Mobile Applications**
 
-<a href="https://github.com/jawadkhattak0001-hash">
-<img src="https://komarev.com/ghpvc/?username=jawadkhattak0001-hash&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
-</a>
+Building practical applications, exploring modern technologies, and continuously improving my development skills.
+
+🇵🇰 Pakistan
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jawadkhattak0001-hash)
 
 </div>
 
-👨‍💻 About Me
+---
 
-I'm Muhammad Jawad, a passionate Full-Stack Web & Mobile App Developer from Pakistan.
+## 👨‍💻 About Me
 
-I enjoy transforming creative ideas into modern, responsive, and user-friendly digital experiences.
+I'm Muhammad Jawad, a Computer Science graduate from Khushal Khan Khattak University, Karak, Pakistan.
 
-🌐 Passionate about Web Development.
-📱 Interested in Mobile App Development.
-💻 Working with modern technologies and frameworks.
-🗄️ Experienced in database-driven application development.
-🚀 Always learning and exploring new technologies.
-🎯 Focused on writing clean and maintainable code.
-🛠️ Tech Stack & Technologies
-Frontend Development
+I'm interested in web and mobile application development and enjoy building practical software projects.
 
+- 🎓 BS Computer Science Graduate
+- 💻 Interested in MERN Stack and Web Development
+- 📱 Exploring Mobile Application Development
+- 🌱 Continuously learning modern development technologies
+- 🛠️ Working on practical software development projects
+- 🤝 Open to internships and collaboration opportunities
+
+---
+
+## 🛠️ Technical Skills
+
+### 🌐 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-Mobile App Development
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,java" />
+</p>
 
+### 🗄️ Database Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 📱 Mobile Development
 <p>
 <img src="https://skillicons.dev/icons?i=react,expo" />
 </p>
 
-Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb" />
-</p>
-
-Tools & Platforms
-
+### 🔧 Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
-🚀 Featured Projects
-1. 🌐 Online Smart FIR System
+---
 
-A comprehensive web and mobile application designed to modernize the FIR submission and tracking process.
+## 🚀 Featured Projects
 
-Key Features:
+### 1. 🌐 Online Smart FIR System
 
-User Account Creation & Authentication
-Online FIR Submission Portal
-FIR Tracking Dashboard
-MongoDB Database Integration
-Officer Assignment Workflow
+My Final Year Project — a web and mobile application designed to facilitate online FIR submission and tracking.
 
-Technologies: JavaScript, MongoDB, Node.js, Expo Go
+**Key Features:**
+- User Account Creation and Authentication
+- Online FIR Submission
+- FIR Tracking Dashboard
+- MongoDB Database Integration
+- Officer Assignment Workflow
 
-🔗 View Project
+**Technologies:** JavaScript, MongoDB, Node.js, Expo Go
 
-2. 💬 Feedback System PHP
+🔗 [View Repository](https://github.com/jawadkhattak0001-hash/online-smart-fir-system)
 
-A web-based application designed to collect, manage, and organize user feedback efficiently.
+### 2. 💬 Student Feedback System
 
-Technologies: PHP, MySQL, HTML5, CSS3
+A web-based application developed to collect and manage student feedback.
 
-🔗 View Project
+**Technologies:** PHP, MySQL, HTML, CSS
 
-3. 🎓 Admission System
+🔗 [View Repository](https://github.com/jawadkhattak0001-hash/Feedback-System-PHP)
 
-A Java-based desktop application developed to simplify and manage student admission processes.
+### 3. 🎓 College Admission System
 
-Technologies: Java, Desktop GUI
+A Java-based desktop application developed to manage student admission processes.
 
-🔗 View Project
+**Technologies:** Java, Desktop GUI
 
-📊 GitHub Statistics
+🔗 [View Repository](https://github.com/jawadkhattak0001-hash/AdmissionSystem)
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jawadkhattak0001-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jawadkhattak0001-hash&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadkhattak0001-hash&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -99,7 +111,9 @@ Technologies: Java, Desktop GUI
 
 </div>
 
-📈 Contribution Activity
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -107,32 +121,18 @@ Technologies: Java, Desktop GUI
 
 </div>
 
-🤝 Connect With Me
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/" >
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/jawadkhattak0001-hash)
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+I'm always interested in connecting with developers, learning new technologies, and collaborating on meaningful projects.
 
-<a href="https://github.com/jawadkhattak0001-hash">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### 💡 Learning • Building • Growing Every Day
 
-</div>
-
-<div align="center">
-
-💡 "Turning Ideas Into Reality Through Code"
-
-Thanks for visiting my GitHub profile!
-
-⭐ Feel free to explore my repositories and connect with me.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:312E81,100:00D4FF&height=100&section=footer" width="100%" />
+**Thanks for visiting my GitHub profile!** ⭐
 
 </div>
