@@ -7,9 +7,9 @@
 <h2 align="left">👋 Hi, I'm Muhammad Jawad</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🎓_BS_Computer_Science_Graduate-2563EB?style=flat-square"/> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/💻_Web_%26_Mobile_App_Developer-0A66C2?style=flat-square"/> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🚀_MERN_Stack_Enthusiast-16A34A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🎓_BS_Computer_Science_Graduate-2563EB?style=flat-square&logo=gitbook&logoColor=white"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/💻_Web_%26_Mobile_App_Developer-0A66C2?style=flat-square&logo=codeforces&logoColor=white"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🚀_MERN_Stack_Enthusiast-16A34A?style=flat-square&logo=react&logoColor=white"/>
 </p>
 
 <p align="left">
@@ -17,9 +17,9 @@ I'm a passionate developer from Pakistan, building practical web and mobile appl
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🇵🇰_Pakistan-0A66C2?style=for-the-badge"/> &nbsp;
-  <img src="https://img.shields.io/badge/🟢_Open_to_Opportunities-16A34A?style=for-the-badge"/> &nbsp;
-  <img src="https://img.shields.io/badge/🎓_BSCS_Graduate-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🇵🇰_Pakistan-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white"/> &nbsp;
+  <img src="https://img.shields.io/badge/🟢_Open_to_Opportunities-16A34A?style=for-the-badge&logo=statuspage&logoColor=white"/> &nbsp;
+  <img src="https://img.shields.io/badge/🎓_BSCS_Graduate-38BDF8?style=for-the-badge&logo=academia&logoColor=white"/>
 </p>
 
 ---
@@ -41,34 +41,45 @@ I'm a passionate developer from Pakistan, building practical web and mobile appl
 
 <table width="100%">
 <tr>
-<td width="33%">
+<td width="33%" align="center" style="background-color: #0d1117; border: 1px solid #38BDF8; border-radius: 10px; padding: 15px;">
 
 ### 🌐 Online Smart FIR System
 A web & mobile application to facilitate online FIR submission and tracking.
 
-**Tech Stack:** `JavaScript` `MongoDB` `Node.js`
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
 
-[Explore Project →](https://github.com/jawadkhattak0001-hash/online-smart-fir-system)
+[<img src="https://img.shields.io/badge/Explore_Project_→-38BDF8?style=for-the-badge&logo=github&logoColor=black">](https://github.com/jawadkhattak0001-hash/online-smart-fir-system)
 
 </td>
-<td width="33%">
+<td width="33%" align="center" style="background-color: #0d1117; border: 1px solid #A855F7; border-radius: 10px; padding: 15px;">
 
 ### 💬 Student Feedback System
 A web-based system to collect and manage student feedback.
 
-**Tech Stack:** `PHP` `MySQL` `HTML`
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+</p>
 
-[Explore Project →](https://github.com/jawadkhattak0001-hash/Feedback-System-PHP)
+[<img src="https://img.shields.io/badge/Explore_Project_→-A855F7?style=for-the-badge&logo=github&logoColor=white">](https://github.com/jawadkhattak0001-hash/Feedback-System-PHP)
 
 </td>
-<td width="33%">
+<td width="33%" align="center" style="background-color: #0d1117; border: 1px solid #10B981; border-radius: 10px; padding: 15px;">
 
 ### 🎓 College Admission System
 A Java desktop application to manage student admission.
 
-**Tech Stack:** `Java` `Desktop GUI`
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Desktop_GUI-007ACC?style=flat-square&logo=windows&logoColor=white"/>
+</p>
 
-[Explore Project →](https://github.com/jawadkhattak0001-hash/AdmissionSystem)
+[<img src="https://img.shields.io/badge/Explore_Project_→-10B981?style=for-the-badge&logo=github&logoColor=white">](https://github.com/jawadkhattak0001-hash/AdmissionSystem)
 
 </td>
 </tr>
@@ -80,13 +91,13 @@ A Java desktop application to manage student admission.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jawadkhattak0001-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jawadkhattak0001-hash&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadkhattak0001-hash&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadkhattak0001-hash&layout=compact&theme=radical&hide_border=true"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jawadkhattak0001-hash&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jawadkhattak0001-hash&theme=react&hide_border=true&area=true"/>
 
 </div>
 
@@ -101,7 +112,7 @@ A Java desktop application to manage student admission.
 </a>
 &nbsp;&nbsp;
 <a href="mailto:jawadkhattak0001.hash@gmail.com" target="_blank">
-  <img src="https://img.shields.Fio/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com" target="_blank">
