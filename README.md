@@ -1,58 +1,37 @@
-![Header](./muhammad_jawad_github_banner.png)
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhammad+Jawad;BS+Computer+Science+Graduate;Web+%26+Mobile+App+Developer;MERN+Stack+Enthusiast;Always+Learning+%26+Building" />
-
-<p>
-  <img src="https://img.shields.io/badge/Location-Pakistan-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Degree-BS%20Computer%20Science-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-16A34A?style=for-the-badge"/>
-</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/jawadkhattak0001-hash)
+<img src="https://raw.githubusercontent.com/jawadkhattak0001-hash/jawadkhattak0001-hash/main/muhammad_jawad_github_banner.png" width="100%" alt="GitHub Banner">
 
 </div>
 
+<h2 align="left">👋 Hi, I'm Muhammad Jawad</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/🎓_BS_Computer_Science_Graduate-2563EB?style=flat-square"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/💻_Web_%26_Mobile_App_Developer-0A66C2?style=flat-square"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🚀_MERN_Stack_Enthusiast-16A34A?style=flat-square"/>
+</p>
+
+<p align="left">
+I'm a passionate developer from Pakistan, building practical web and mobile applications, exploring modern technologies, and continuously improving my skills.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/🇵🇰_Pakistan-0A66C2?style=for-the-badge"/> &nbsp;
+  <img src="https://img.shields.io/badge/🟢_Open_to_Opportunities-16A34A?style=for-the-badge"/> &nbsp;
+  <img src="https://img.shields.io/badge/🎓_BSCS_Graduate-2563EB?style=for-the-badge"/>
+</p>
+
 ---
 
-## 👨‍💻 About Me
-
-I'm **Muhammad Jawad**, a Computer Science graduate from Khushal Khan Khattak University, Karak, Pakistan.
-
-I am passionate about software development, web technologies, and mobile applications. I enjoy building practical projects, exploring modern tools, and continuously improving my technical skills.
-
-- 🎓 BS Computer Science Graduate
-- 💻 Web & Mobile Application Development
-- 🚀 Interested in MERN Stack Development
-- 🌱 Exploring modern software technologies
-- 🤝 Open to internships and professional collaborations
-
----
-
-## ⚡ Technical Skills
+## ⚙️ Tech Stack & Skills
 
 <div align="center">
 
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,php,java" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### Mobile Development
-
-<img src="https://skillicons.dev/icons?i=react,expo" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+| Frontend Development | Backend Development | Database | Mobile Development | Tools & Others |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html,css,js" /> | <img src="https://skillicons.dev/icons?i=nodejs,php,java" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=react,expo" /> | <img src="https://skillicons.dev/icons?i=vscode,git,github" /> |
+| **HTML5, CSS3, JavaScript** | **Node.js, PHP, Java** | **MongoDB, MySQL** | **React Native, Expo** | **VS Code, Git, GitHub** |
 
 </div>
 
@@ -60,50 +39,36 @@ I am passionate about software development, web technologies, and mobile applica
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🌐 Online Smart FIR System
+A web & mobile application to facilitate online FIR submission and tracking.
 
-Final Year Project
-
-A web and mobile application for online FIR submission and tracking.
-
-**Tech Stack:** JavaScript, MongoDB, Node.js, Expo Go
+**Tech Stack:** `JavaScript` `MongoDB` `Node.js`
 
 [Explore Project →](https://github.com/jawadkhattak0001-hash/online-smart-fir-system)
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 💬 Student Feedback System
+A web-based system to collect and manage student feedback.
 
-A web-based application for collecting and managing student feedback.
-
-**Tech Stack:** PHP, MySQL, HTML, CSS
+**Tech Stack:** `PHP` `MySQL` `HTML`
 
 [Explore Project →](https://github.com/jawadkhattak0001-hash/Feedback-System-PHP)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 
 ### 🎓 College Admission System
+A Java desktop application to manage student admission.
 
-A Java desktop application for managing student admission processes.
-
-**Tech Stack:** Java, Desktop GUI
+**Tech Stack:** `Java` `Desktop GUI`
 
 [Explore Project →](https://github.com/jawadkhattak0001-hash/AdmissionSystem)
-
-</td>
-<td width="50%">
-
-### 💡 More Projects Coming Soon
-
-Continuously learning and building new applications to improve my development skills.
 
 </td>
 </tr>
@@ -111,56 +76,41 @@ Continuously learning and building new applications to improve my development sk
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats & Contributions
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jawadkhattak0001-hash&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jawadkhattak0001-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadkhattak0001-hash&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=jawadkhattak0001-hash&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jawadkhattak0001-hash&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jawadkhattak0001-hash&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+### 🤝 Connect With Me
 
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/jawadkhattak0001-hash">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/jawadkhattak0001-hash" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:jawadkhattak0001.hash@gmail.com" target="_blank">
+  <img src="https://img.shields.Fio/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL_ADDRESS">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br><br>
 
-</div>
-
----
-
-<div align="center">
-
-### 💙 Learning. Building. Innovating.
-
-*"Turning Ideas Into Reality Through Code."*
-
-**Thanks for visiting my GitHub profile!** ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:312E81,100:00D4FF&height=100&section=footer" width="100%"/>
+> *"Learning, Building, and Growing Every Day."*  
+> — **Muhammad Jawad**
 
 </div>
