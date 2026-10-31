@@ -1,4 +1,4 @@
-<div align="center">
+![Muhammad Jawad](./muhammad_jawad_github_banner.png)<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:312E81,100:00D4FF&height=220&section=header&text=Muhammad%20Jawad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20Mobile%20App%20Developer&descAlignY=58&animation=fadeIn" width="100%" />
 
